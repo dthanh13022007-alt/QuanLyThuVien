@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class BTT2 {
     public static void main(String[] args) {
+        System.out.println("Tôi là Trần Đức Thành!");
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap ho ten: ");
         String hoTen = sc.nextLine();
